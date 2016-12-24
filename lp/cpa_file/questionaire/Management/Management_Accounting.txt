@@ -1,0 +1,10 @@
+Sunks Costs are costs to be incurred in near future that are impossible to avoid.##True##False
+@@Budgets for Planning: Which is Profit Budget?##Indicates the planned quantity of production and expected costs&&Indicates planned cash inflows and outflows##Indicates planned income
+@@Which of the following is not a period cost?##Advertising costs&&Commissions&&General office salaries##Overtime premium
+@@What type of cost is rent?##Mixed&&Variable&&Step-variable##Fixed
+@@GAAP requires that inventories and cost of goods sold be reported at full cost. Which of the following is defined as full cost?##Direct materials, direct labor, and fixed overhead&&Direct materials, direct labor, and variable overhead&&Direct materials, direct labor, and other variable costs##Direct materials, direct labor, and total overhead
+@@Which of the following is most likely to be a fixed cost?##Cost of Materials&&Assembly Labor Cost&&Commissions##Rent
+@@The schedule of cost of goods manufactured is an analysis of which account?##Finished goods&&Direct materials&&Cost of goods sold##Work in process
+@@The wages lost when you give up your job to attend school full-time is an example of a(n):##Fixed costs.&&Sunk cost.&&Direct cost.##Opportunity cost.
+@@Which of the following is most likely to be a variable cost?##Advertising&&Rent&&Depreciation##Cost of Materials
+@@Cost of Goods Available for Sale = Beginning Finished Goods + Cost of Goods Manufactured##False##True

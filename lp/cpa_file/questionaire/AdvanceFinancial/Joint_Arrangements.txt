@@ -1,0 +1,10 @@
+Joint arrangements require:##Contractually- agreed shared control&&Unanimity in decision making##both a and b
+@@Disclosure requirements are:##Unchanged from IAS 31&&both a and ##Detailed in IFRS 12.
+@@Joint operations are accounted for using:##The equity method&&Proportional consolidation##The relevant IFRS’s
+@@Joint ventures are accounted for using:##The relevant IFRS’s&&Proportional consolidation##The equity method
+@@An undertaking determines the type of joint arrangement in which it is involved by considering its rights and obligations. This involves considering:##the structure and legal form of the arrangement&&the contractual terms agreed to by the parties to the arrangement&&other facts and circumstance##all of the choices
+@@Joint arrangements can have:##Only two controllers&&Only parties that that control the arrangement##Unlimited controllers and parties that have no control function.
+@@A party to a joint operation sells an asset to the operation. The profit it can realise is:##None&&100%##100% - the party’s share, until the asset is sold by the operation
+@@Can a joint arrangement include both a joint operation and a joint venture##No##Yes
+@@Does a joint operator have to share in impairment losses of the joint operation##No##Yes
+@@Can a participant in a joint venture have significant influence, but not joint control##No##Yes

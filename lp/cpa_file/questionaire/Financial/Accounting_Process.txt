@@ -1,0 +1,6 @@
+The accounting process begins with:##Preparing financial statements and other reports.&&Summarizing the recorded effect of business transactions.&&Ratio analysis of financial statements.##Analysis of business transactions and events.
+@@Accounting systems take the cash and accruals from various transactions and generate financial reports and statements is:##Financial Statements&&Accounting Cycel&&Adjusting Entries##Accounting Process
+@@An ______ Consists of the traditional procedures performed to record business events and transactions in a company’s accounting records. ##Financial Statements&&Accounting Process&&Adjusting Entries##Accounting Cycle
+@@Traditionally, the accounting cycle consisted of nine steps, EXCEPT.##The adjusted trial balance is prepared.&&The data is entered into the general journal.&&Entries are posted to the general ledger.##None of the choices
+@@It is also called adjusting journal entries, are journal entries made at the end of a period to correct accounts before the financial statements are prepared.##FinancialStatements&&Accounting Process&&Accounting Cycle##Adjusting Entries
+@@Adjusting Journal Entries are used to record the following EXCEPT one:##Prepaid expenses or unearned revenues&&Accrued expenses and accrued revenues&&Non-cash expenses##Determine current account balance

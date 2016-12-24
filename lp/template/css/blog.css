@@ -1,0 +1,174 @@
+#blog_content{
+	width:100%;
+	margin:10px;
+	
+}
+#blog_head.title{
+	width:100%;
+	font-size:30px;
+	font-weight:900;
+	font-family:"Segoe UI";
+	padding:10px;
+}
+#blog_info.info{
+	width:20%;
+	float:left;
+	padding:10px;
+	color:#888888;
+	font-family:"Microsoft Sans Serif";
+	font-weight:800;
+	font-size:14px;
+}
+#blog_desc.desc{
+	width:75%;
+	float:left;
+	
+	padding-top:10px;
+	font-family:"Berlin Sans FB";
+	font-size:17px;
+}
+#blog_foot.foot{
+	clear:both;
+	
+}
+hr{
+	
+	height:4px;
+	background:#000000;
+}
+#blog_input{
+	
+	height:30px;
+	border:1px solid #d8d8d8;
+	margin:0px;
+}
+.search{
+	float:left;
+	width:80%;
+	
+}
+#blog_button{
+	background:rgb(0,175,175);
+	border:0px;
+	margin:0px;
+}
+.button_search{
+	background:green;
+	float:left;
+	margin:0px;
+	width:20%;
+	height:30px;
+}
+
+#label_title{
+	font-weight:900;
+	font-family:"Corbel";
+	font-size:16px;
+}
+#post_info{
+	font-family:"Tahoma";
+	font-size:13px;
+}
+#blog_link.main_link:hover{
+	color:#0099DD;
+}
+#blog_link.main_link{
+	
+	font-family:"Segoe UI";
+	font-size:30px;
+	color:#000000;
+}
+#blog_link{
+	text-decoration:none;
+	color:#0099DD;
+	font-family:"Tahoma";
+	font-size:13px;
+}
+#blog_link:hover{
+	color:#d899DD;
+}
+#comment_count{
+	
+	font-family:"Candara";
+	font-size:20px;
+	font-weight:900;
+}
+
+hr#grayed{
+	height:2px;
+	border:0;
+	background:#d8d8d8;
+}
+
+#blog_link.comment_link{
+	font-size:15px;
+	font-weight:900;
+	
+}
+#user_info{
+	color:#888888;
+	font-size:12px;
+	
+}
+table#comment_table{
+	width:100%;
+}
+div#comment_button{
+	padding:10px;
+	border:1px solid gray;
+	width:40px;
+	text-align:center;
+	
+}
+div#comment{
+	border-top:2px solid gray;
+	margin-bottom:20px;
+}
+div#comment.reply{
+	
+	margin-left:50px;
+}
+
+#label_title.reply_head{
+	
+	font-size:25px;
+}
+#comment_box{
+	width:100%;
+	height:200px;
+	font-size:15px;
+	border:1px solid gray;
+	background:#F8F8F8;
+}
+#blog_input.reply_input{
+	border:1px solid gray;
+	width:100%;
+	height:40px;
+	font-size:15px;
+	background:#F8F8F8;
+}
+#blog_button.comment_button{
+	background:#080808;
+	padding:10px;
+	font-weight:900;
+	font-size:20px;
+	color:#ffffff;
+}
+#page_container{
+	
+	width:100%;
+	height:40px;
+	margin:5px;
+    margin-top:40px;
+	margin-bottom:40px;
+	text-align:center;
+	
+}
+#page_number{
+	display:inline-block;
+
+	margin:5px;
+	text-align:center;
+	padding:10px;
+	border:1px solid #c0c0c0;
+}

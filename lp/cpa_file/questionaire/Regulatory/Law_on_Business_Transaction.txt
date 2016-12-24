@@ -1,0 +1,8 @@
+When the debtor binds himself to pay when his means permit him to do so, the obligation is:##Conditional&&Pure&&Simple##With a Period
+@@Contracts which cannot be sued upon unless ratified,thus it is as if they have no effect yet are:##Voidable&&Rescissible&&Void##Unenforceable
+@@If the obligation of the debtor is "I will pay you my debt after I have arrived from abroad," this is##Unenforceabl&&With a Period&&Void##Conditional
+@@When the characters of the creditor and the debtor aremerged in one and the same person, there isextinguishment of the obligation by:##Compensation&&Novationd&&Remission##Merger of Rights
+@@Through insidious words or machinations, A was able toinduce B to enter into a contract which without them Bwould not have agreed to it. There is:##Undue Influence&&Mistake&&Misrepresentation##Fraud
+@@"A sells to B his lot and house in the city if A decides totransfer and live in the countryside" is an example of:##Mixed Condition&&Casual Condition&&Resolutory Condition##Potestative Condition
+@@It is a mode of extinguishing an obligation when two persons in their own right are creditors of each other.##Confusion&&Reformationc&&Novation##Compensation
+@@A contract is in the stage of conception when:##There is meeting of the minds&&The parties come to an agreement&&The contract is perfected.##Negotiations are in progress

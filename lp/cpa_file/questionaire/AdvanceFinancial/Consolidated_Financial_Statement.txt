@@ -1,0 +1,50 @@
+Which of the following companies would qualify to be regarded as subsidiaries of Alpha?
+a) Beta in which Alpha has 15% votes and a place on the board of directors
+b) Delta in which Alpha has 52% votes but no place on the board of directors
+c) Gamma in which Alpha has 25% shares and two places on the board of directors
+d) Theta in which Alpha holds 100% votes and all places on the board of directors##a & b&&b & c&&a & c##b & d
+@@Which of the following statement(s) is / are correct with regard to preparation of consolidated financial Statement?
+a) To be a subsidiary a parent should hold 100% of its equity shares
+b) Consolidation merely addition together of two Statements of financial position
+c) In consolidation a subsidiary and an associate are treated identically
+d) Consolidated balance sheet excludes assets not owned by the group##a & d&&a & b&&b & c##None
+@@Which of the following statement(s) apply when consolidating statements of financial position
+a) All inter-company balances should be cancelled
+b) The group share of the whole of subsidiary’s profit is included within group profit
+c) Inter company profit should be eliminated unless it is realised by sale to an outsider
+d) Subsidiary’s asset values need to be updated at the end of each accounting period##a & b&&b & d&&b & c##a & c
+@@With regard to preparing consolidated statements of financial position which of the following statements is / are correct?
+a) the consolidated statement of financial position reports only parent’s goodwill
+b) Any unrealized profit made by a subsidiary should be eliminated from its profit
+c) An amount owed to each other within the group needs to be cancelled
+d) Only the group portion of any unrealised profit need be eliminated.##a&&c&&a & b##b & c
+@@When preparing a consolidated statement of financial position the identifiable non monetary assets of the subsidiary need to be fair valued for which of the following reason / reasons?
+a) To inform the acquired company what its assets are worth in the market
+b) To comply with the practice followed over the years
+c) To report each of the subsidiary’s assets at what it cost the group to acquire
+d) To identify the amount paid for goodwill as the residual not attributed to other assets##a, c & d&&a, b & c&&b, c & d##c & d
+@@When preparing a consolidated Statement of financial position the identifiable non monetary assets of the subsidiary need to be fair valued. Which of the following assets of the subsidiary need to be fair valued?
+a) Land and building appearing in the books of the subsidiary
+b) Trade receivables reported on the subsidiary’s balance sheet
+c) Brand name the cost relating to which the subsidiary has already fully written off
+d) Inventory reported on the subsidiary’s statement of financial position##c & d&&b, c & d&&a, b & c##a, c & d
+@@Which of the following statements are incorrect with regard to preparation of a consolidated statement of financial position?
+a) Gain on fair valuation of a subsidiary’s asset is a pre-acquisition profit
+b) Non controlling interest does not deserve any portion of fair valuation gain
+c) If an asset is not reported in the subsidiary’s ledger it need not be fair valued
+d) Gain on fair valuation of subsidiary’s asset inflates the cost of goodwill##a, b & c&&c & d&&a, c & d##b, c & d
+@@When preparing a consolidated statement of financial position any profit made by one member of the group against another should be eliminated unless it has been realised by disposal to some one outside the group. Which of the following is / are the reason(s) for this 
+a) Because an entity cannot make a profit against its own self
+b) Because it is fashionable to do 
+c) Because subsidiary’s assets needs to be reported at the amount each cost the group
+d) Because the unsold goods may have to be returned to the party purchased from##b, c & d&&c & d&&a, b & c##a & c
+@@When preparing a consolidated statement of financial position, pre-acquisition portion of subsidiary’s retained earnings need to be frozen by off setting it from the cost of investments. Which of the following is / are the reason for this?
+a) That portion of profit has been paid for by the parent as part of its investment
+b) It is not ethical for the parent to claim profits made before a company became a subsidiary
+c) To establish the true cost to the parent of acquiring the subsidiary’ s goodwill
+d) Otherwise group profits are inflated by acquiring subsidiary’s with high retained earnings.##b, c & d&&c & d&&a, b & c##a & c
+@@With regard to preparing consolidated income statement which of the following statements are correct?
+a) Only the group portion of subsidiary’s sales, cost of sales and expenses are included.
+b) Non controlling interest is identified immediately after consolidating operating profit
+c) Consolidated movement of equity includes only the parent company’s dividend
+d) Only the group portion of the subsidiary’s post acquisition profit in brought forward in the consolidated movement of equity.##a, c & d&&b & d&&a, b & c##c & d

@@ -1,0 +1,30 @@
+Which of the following statements are correct:
+i) Revenue recognition is the determination of the point and the amount at which income is accounted for.
+ii) Income should not be accounted for unless inflow of economic benefit is probable and The amount thereof may be estimated reliably.
+iii) Income should not be accounted for unless it is received in cash
+iv) A sale made subject to the customer right to return within a week should Not be recognised as income until that week is over.##i, ii and iv&&i and ii&&i, ii and iii##i, ii, iii and iv
+@@Which of the following statements are correct:
+i) Problems of revenue recognition would not have arisen if accounting applied the venture concept or only upon receipt in cash of all amounts earned.
+ii) The sale of an item with a warranty to restore it to workable condition up to a year after sale may be recognised as income if the commitment involved can be measured.
+iii) No income is recognised unless its amount is established objectively.
+iv) Exchange of items of similar nature and value is neither recognised as a transaction nor is income thereon recognised.##i and ii&&i only&&i, ii and iii##i, ii, iii and iv
+@@Which of the following statements are correct in respect of a business which produces goods to be held as inventory, ready for sale.
+i) Sales income should not be recognised until a buyer is found and price is agreed on
+ii) Sales income should not be recognised if the buyer is in another country and receipt of the amount depends on whether the buyer receives exchange clearance from government
+iii) Sales income should be recognised only when proceeds are received.
+iv) Whether the sale is recognised at point of sale, delivery or invoicing depends on what its practice has been in the past.##i only&& i, ii and iii##i, ii,iiand iv##i,ii and iv
+@@It is usual for a retail shop to recognise revenue when:##The customer pays for the goods sold&&The goods for sale have arrived from the supplier&&The goods have been delivered to the customers premises##The customer becomes legally obliged to pay for the goods
+@@A trader sells computer hardware with a warranty that he is responsible for any repair within a year of sale. He may recognise the sales income at the point of sale because:##That is usually the practice among such traders&&There is a possibility of not undertaking the repairs blaming the customer for wrong usage&&It is unlikely that repairs will become necessary within the first year##From experience the trader can quantify the cost of such repairs and account for it separately
+@@The most appropriate definition of an imprest system of petty cash control is that it is a system where:##An assistant is appointed to help with the work of the cashier&&The petty cashier is allowed to make payments during the Cashier's absence&&The amount available for spending by petty cashier is left to the discretion of the Cashier##The Cashier checks the amount spent at regular interval and re-imburses the exact amount
+@@With regard to accounting concepts which of the following statements are correct:
+i) Realisation concept requires that income should not be accounted for until it is received in cash.
+ii) Accounting should reflect commercial substance rather than legal form
+iii) Whenever faced wituncertainty prudence should prevail
+iv) For promoting comparability of financial statements consistency should take precedence over concepts such as prudence and accruals.##i, ii and iv&&i, ii, iii and iv&&i, iii and iv##ii, iii, and iv
+@@Each of the following is a criterion for the recognition of an item in the financial statements except:##the information about the item is relevant.&&the item must meet the definition of an element of financial statements.&&the item has a relevant attribute that is reliably measurable.##the information about the item must be reported on the same valuation basis as those of the prior periods.
+@@In general, revenue is recognized when the earnings process is substantially complete and:##the sales price has been collected.&&production is completed.&&a purchase order has been received.##the sales price has been realized or is realizable.
+@@The primary justification for the cost recovery method is to:##ensure consistent treatment of sales revenues.&&provide uniform measurement of income.&&apply the cost principle.##comply with the conservatism constraint.
+@@When using the percentage-of-completion method to account for a long-term contract, the gross profit recognized in the first year of a three-year construction project generally is the estimate of total gross profit from the project multiplied by the ratio of:##estimated costs to complete to estimated total costs.&&estimated costs to complete to actual costs incurred to date.&&estimated total costs to estimated costs to complete.##actual costs incurred to date to estimated total costs.
+@@Gross profit on a long-term contract is recognized when billings are sent under the: Completed contract method, Percentage of completion method##Yes, No&&Yes, Yes&&No, Yes##No, No
+@@Each of the following is an essential characteristic of an expense, except:##if it is a result of activities that constitute the entity's ongoing major operations.&&if it represents an outflow of assets or the incurrence of a liability.&&if it represents actual or expected cash outflows (or the equivalent).##if it represents distributions to the stockholders of the entity.
+@@Which of the following is not a reason why revenue is recognized at time of sale?##The earning process is substantially complete.&&The amount is reasonably measured.&&Title legally passes from seller to buyer.##All of these are reasons to recognize revenue at time of sale.

@@ -1,0 +1,13 @@
+The ________ says that, all other things remaining equal, as the price of a good increases (decreases), the quantity of that good supplied will increase(decrease).##Microeconomics&&Macroeconomics&&Law of Demand##Law of Supply
+@@It is defined as the percentage change in quantity demanded divided by the percentage change in price.##Elasticy of Demand&&Law of Supply&&Income Elasticity##Price Elasticity
+@@It is the way in which the burden of a tax is shared among the market participants ("who bears the cost?").##Subsidy&&Quota&&Statutory Incidence##Tax incidence
+@@There are factors that influence the elasticity of supply, which is not correct:##include the ability to switch to production of other goods&&the ability to go out of business&&the ability to use other resource inputs and the amount of time available to respond to a price change.##none of the choices
+@@Which is NOT an obstacles to achieve efficiency: ##Public Goods&&Externalities&&Discrimination##Utilitarianism
+@@It is defined as the value of all goods and services produced within a nation during a particular period of time (typically a year)##Gross National Product&&Marginal Product&&Market prices##Gross domestic product
+@@It measures the income of all of a nation's citizens, even if that income was earned abroad. Amounts that foreigners earn within the nation's boundaries are not included.##Gross domestic Product&&Marginal Product&&Market prices##Gross nationalproduct
+@@This type of unemployment occurs because of workers who are voluntarily between jobs. Some are looking for better jobs.##Structural Unemployment&&Cyclical Unemployment&&All of the choices##Frictional Unemployment
+@@It is defined as an increase in the overall price level.##Consumer Price Index (CPI)&&Quality Adjsutments&&Substitution##Inflation
+@@The CPI is not a perfect measure of inflation. Sources of bias include:##Quality Adjustments&&New Goods&&Substitution##All of the choices
+@@This is a factor creating a demand-pull inflation:##there is a decrease in aggregate supply&&Increase in raw material costs&&Increase in wage rates##Increase in the supply of money
+@@There are three major ways in which fiscal policy affects aggregate demand, EXCEPT##Business Tax Policy&&Government Spending&&Tax Policy for individuals##none of the choices
+@@It is refers to the concept that price levels are stable enough so that people do not feel compelled to take inflation into account when making economic decisions.##Sustainable Growth in real GDP&&Expansionary Monetary Policy&&New Keynesian Feedback Rules##Price level stability

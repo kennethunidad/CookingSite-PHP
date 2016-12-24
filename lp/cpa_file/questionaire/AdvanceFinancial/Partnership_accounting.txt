@@ -1,0 +1,82 @@
+Which of the following characteristics should exist to recognise a business as a partnership?##The business needs to be registered with the Registrar of companies&&The business needs to have more than one owner&&The owners should have written an agreement to conduct business as partners##There needs to be co-ownership, a business and intention to share profits
+@@With regard to a partnership agreement which of the following statements are correct?a.Agreement may be an oral one
+b.The agreement can be inferred from the manner of their past behaviour
+c.The agreement should be printed, legally attested and registered
+d.The agreement may be a written one##b,c and d&&a and b&&a, b and c##a, b and d
+@@With regard to a partnership business which of the following statements are correct?
+a.Every partner has to participate in management
+b.Every partner needs to contribute equal amounts as capital
+c.The number of partners may be from two to any number
+d.Each partner has unlimited joint and several responsibility to meet partnership debts##a and b&&b and d&&b and d##a and d
+@@With regard to a partnership agreement which of the following statements are correct?
+a. A partnership agreement is not essential
+b. The agreement can be inferred from the manner of their past behaviour
+c. The agreement should be printed, legally attested and registered
+d. The agreement may be a written one##a, b and c&&a and b&&b, c and d##a, b and d
+@@Which of the following matters would you suggest should be dealt within a partnership agreement?
+a) How they propose to share profits
+b) Whether salary and interest on capital needs to be allowed
+c) Whether every partners may admit to partnership anyone of their choice
+d) Whether there should be restrictions on what a partner may draw out for own use##a and c&&a, b and c&&b, c and d##All four
+@@Which one or more of the following statements is/are correct with regard to the application of section 24 of the Partnership Act 1890?
+a) Section 24 applies to all partnerships.
+b) Section 24 applies only if the partnership agreement states that it would
+c) Section 24 applies only if there is no partnership agreement
+d) Section 24 applies on any aspect not covered in the partnership agreement.##b and c&&c only&&c and d##d only
+@@In a situation where section 24 of the Partnership Act applies, which one or more of the following statements are correct?
+a) Profits and losses have to be shared equally
+b) If any partner contributes more capital interest may be allowed at 5%
+c) No interest can be paid on a loan received from a partner
+d) No interest may be charged on amounts drawn by any partners##a and c&&c and d&&b and c##a & d
+@@With regard to a business carried on as a partnership which one or more of the following statements are correct?
+a) A partner may agree to join on condition he would risk only his capital amount
+b) As a sleeping partner, a partner may be excused from management responsibility
+c) By agreement a partner may require interest on his loans at 12% per annum
+d) If registered with the Registrar of Companies as a Limited Liability Partnership partners liability could be restricted to the amount of capital contributed##b & c&&b & d&&a & d##c & d
+@@Where a partnership maintains separate Capital accounts and Current accounts for each partner, which one or more of the following should be credited to the Current accounts?
+a)Share of profit from the partnership
+b)Gain on fair valuing an asset or recording partnership goodwill
+c) Unpaid portion or any rent, salary or interest due to a partner
+d) Additional capital introduced by a partner during the year##c and d&&b and c&&a and d##a and c
+@@Which one or more of the following are charges (rather than appropriation) of profit among partners?
+a) Salary payable to a partner
+b) Rent payable to a partner
+c) Interest payable to a partner on any loan received by the partnership
+d) Interest allowed on partners capital account balances##a and c&&a and d&&c and d##b and c
+@@In which of the following circumstances would you suggest that a partnership agreement should provide that salary and interest on capital should be allowed to partners?
+a) If there is a difference in the effort contribution made by all partners
+b) If there is a difference in the amount contributed as capital by each partner
+c) If that is fashionable in the trade or business carried on by the partnership.
+d) If one or more partners are cleverer than others##c and d&&a and c&&b and c##a and b
+@@In which of the following circumstances is there a need for fair valuing partnership assets and recording any partnership goodwill?
+a) When a new partner is admitted
+b) When an existing partner retires or dies
+c) Whenever the partnership prepares its financial statements
+d) When there is a change in the profit sharing arrangements among existing partners##b, c and d&&a and c&&All four##a, b and d
+@@Having recognised goodwill in specific circumstances, for which of the following reasons are partners usually reluctant to continue recording goodwill in their books?
+a) Goodwill is an intangible asset
+b) Goodwill does not bring in future economic benefit
+c) Goodwill cannot be realised unless the whole business is sold as a going concern
+d) Goodwill is a fiction of business imagination##a, b and d&&All four&&b, c and d##a and c
+@@Whenever there is a change in the profit sharing arrangements among partners, which of the following need adjustments?
+a) Goodwill not recorded or partly recorded in the books
+b) Work in progress which is usually not recorded in partnership of professionals
+c) Any asset not recorded at its fair value on that date
+d)partnership joint life policy where the premiums paid have been written off##b, c and d&&a, b and d&&a, c and d##All four
+@@With regard to interest charged on partners drawings which one or more of the following statements is / are correct?
+a) Interest is charged to ensure partners do not draw their profit share at all
+b) Interest is charged to discourage drawings prior to the year end
+c) Irrespective of the date of drawing interest is payable for the whole accounting year
+d) Interest is an additional earning for the partnership##b and d&&c and d&&a and b##b only
+@@Which of the following is the correct way of accounting for interest charged on a partner's drawings?##Debit Current account and credit an income account ( to be added to partnership gross profit)&&Debit in the appropriation section of the Income Statement and credit Current account&&Debit an expense account (to be shown in Income Statement) and credit Current accountDebit##Current account and credit in the appropriation section of the Statement of income@@With regard to death or retirement of a partner which of the following statement (s) is / are correct
+a) When a partner leaves his dues should be settled at once
+b) If retiring partner's due are not immediately settled interest becomes payable at 5%
+c) A deceased partner's dues, if not immediately settled, is recorded as an Estate
+d) Interest on a deceased partner's dues is a charge (rather than appropriation) of profit##a and b&&c and d&&a, b and c##b, c and d
+@@When a partnership is dissolved, piece-meal, and the following claims need to be met out of the cash realised, which is the correct sequence in which these claims have to be met?
+a) Any partner's loan
+b) Return capital & current account balances
+c) Expenses of dissolution
+d) Outsider's claims (payables and accruals)Appropriation of partnership profit##b, c, a and d&&a, b, d and c##c, d, a and b
+@@Anton, Berty and Carol are in partnership without an agreement. However, Carol is entitled to rent from the partnership at P2,000 per month, while Berty has provided a loan of P50,000 to the partnership. The partnership profit for the year ended 31 December 2008, without deducting rent payable to Carol and any interest to Berty, is P438,400. Identify the share of partnership profit each partner is entitled to.##Anton: P137,300;	Berty: P139,800;	Carol: P161,300&&Anton: P137,300;	Berty: P137,300;	Carol: P161,300&&Anton: P137,300;	Berty: P139,800;	Carol: P137,300##Anton: P137,300;	Berty: P137,300;	Carol: P137,300
+@@Alfred, Ben and Charles are in partnership without an agreement. The partnership profit for the year ended 31st March 2012, after writing off P58,400 as bad debts, has been determined as P398,000. The partners have agreed,however, that Alfred should bear P28,000 of the bad debt.Identify the share of partnership profit each partner is entitled to.##Alfred: P142,000;	Ben: P142,000;	Charles: P142,000&&Alfred: P132,667; 	Ben: P132,667;	Charles: P132,666&&Alfred: P123,334;	Ben: P123,333;	Charles: P123,333##Alfred: P114,000;	Ben: P142,000;	Charles: P142,000
